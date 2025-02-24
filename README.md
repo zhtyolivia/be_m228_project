@@ -1,1 +1,1 @@
-# be_8228_project
+# UCLA BE M228 Final Project
